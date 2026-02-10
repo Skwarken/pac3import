@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+    "$baseTexture" "models/poulait/epee8/material_epee1"
+    "$surfaceprop" "metal"
+    "$bumpmap" "models/poulait/epee8/material_epee1_normal"
+    "$metalness" "models/poulait/epee8/material_epee1_metallic"
+    "$roughness" "models/poulait/epee8/material_epee1_roughness"
+}
