@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/scp/security_guards/containment/security_containment_vest"
+	"$bumpmap"    "models/scp/security_guards/containment/security_containment_vest_n"
+	
+	"$phong"	"1"
+	"$phongexponent"	"9"
+	"$phongalbedotint"	"1"
+	"$phongboost"	"0.05"
+	"$phongfresnelranges"	"[5 7 8]"
+    "$lightwarptexture" 	"models/scp/security_guards/shared/Clothes_wrp"
+	"$phongexponenttexture" "models/scp/security_guards/containment/security_containment_vest_spc"
+		"$detail" "models/scp/security_guards/shared/detail_m_soldier"
+	"$detailscale" 0.5
+	"$detailblendfactor" 1
+	"$detailblendmode" 0
+}
+
+
